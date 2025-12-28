@@ -4,7 +4,7 @@ This was a project for my HSC subject IPT. This is also my first time doing Flas
 
 ## Stack
 
-- Python
+- Python + Flask
 - HTML
 - CSS
 - The Cat API (free api)
